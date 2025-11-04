@@ -39,7 +39,7 @@
 9. Конец
 ### Блок-схема
 <img width="832" height="595" alt="image" src="https://github.com/user-attachments/assets/a291090e-b3f6-4f24-ba5a-e52d98f16c2c" />
-
+https://drive.google.com/file/d/1w_-V2aimLjLVjMAKNinqHSxevL3o4V32/view?usp=sharing
 
 ## 2. Реализация программы
     #include <stdio.h>
